@@ -1,0 +1,15 @@
+apple
+banana
+cherry
+date
+elephant
+frog
+grape
+house
+island
+jungle
+kite
+lemon
+mountain
+notebook
+orange
