@@ -28,10 +28,10 @@ Google Colab (short for Google Colaboratory) is a **free**, cloud-based platform
 
 Google Colab is essentially a hosted Jupyter Notebook environment, so if you're familiar with Jupyter Notebooks, you'll feel right at home. You can write and run code in cells, visualize data, and document your workflow all in one place. Additionally, Colab integrates seamlessly with Google Drive, making it easy to save and share your work. It's an excellent tool for both beginners and experienced programmers who want to experiment with Python code without the need to set up a local development environment.
 
-> ⚠️ **Using Google Colab:** Google Colab does not require any installation (it uses your internet browser) but tou do need a (free) Google account. How to use Google Colab is shown [here](https://www.youtube.com/watch?v=g0xu9DA4gDw).
+> ⚠️ **Using Google Colab:** Google Colab does not require any installation (it uses your internet browser) but tou do need a (free) Google account. You can access Google Colab using the url `https://colab.research.google.com/`. More information on how to use Google Colab is shown [here](https://www.youtube.com/watch?v=g0xu9DA4gDw). All notebooks used in this introductory course can be run on Colab. Either download the notebooks and upload them to Colab (in the menu *> upload* ) or copy-paste the URL of the GIT-repo in Colab (in the menu *> GitHub*) .
 
 
-## (Installing) the Python interpreter, an IDE and Google Colab 
+## OPTIONAL: (Installing) the Python interpreter, an IDE and Google Colab 
 
 A Python interpreter is a program that reads and executes your Python code. Unlike compiled languages, where code is first translated into machine language, Python is an interpreted language, meaning the interpreter processes your code line by line, translating it into actions immediately. You need a Python interpreter to run your Python scripts and interact with your code, making it essential for executing and testing your programs.
 
