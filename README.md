@@ -48,7 +48,7 @@ An Integrated Development Environment (IDE) is a software application that provi
 - Whirlwind Tour Of Python by Jake VanderPlas [[git repo](https://github.com/jakevdp/WhirlwindTourOfPython)]
 - VSCode [[web link](https://code.visualstudio.com/)]
 - Free book [[web link](https://learnbyexample.github.io/100_page_python_intro/cover.html)]
-- Slide deck for *Crash course Python* [right click to download](https://github.com/jverwaer/pythonBasics/blob/main/crash_course_python.pptx)
+- Slide deck for *Crash course Python* [[right click to download -> Save link as ...]](https://github.com/jverwaer/pythonBasics/blob/main/crash_course_python.pptx)
 
 
 
